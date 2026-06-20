@@ -1,0 +1,2 @@
+{"sessionId":"f85083","location":"anthropic.ts:getAnthropicModel","message":"Resolved Anthropic model","data":{"model":"claude-sonnet-4-6","fromEnv":"claude-sonnet-4-6","hasEnvOverride":true,"defaultFallback":"claude-sonnet-4-6"},"timestamp":1781956911677,"hypothesisId":"H1-H2","runId":"post-fix"}
+{"sessionId":"f85083","location":"evaluate-initial/route.ts:POST","message":"Calling Anthropic messages.create","data":{"model":"claude-sonnet-4-6","conceptLength":25,"explanationLength":85},"timestamp":1781956911680,"hypothesisId":"H4"}
